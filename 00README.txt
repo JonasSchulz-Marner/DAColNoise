@@ -1,5 +1,8 @@
 README
 
+Start the app in App.R
+
+
 Functions regarding the App:
 AmountOfNewData.R
 App.R
